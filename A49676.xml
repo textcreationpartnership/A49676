@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Late dreadful and most admired calamity of a parcel of land and many great oaks, and other trees sunk many yards under ground into so deep a water that the tops of the highest oaks are not to be seen, together with a great quantity of land and other trees that are daily falling ... neer unto the parish of Bulkley, about nine miles from Chester, it being part of the land of the Lord Cholmley : this strange accident hapned on the 8 day of Iuly 1657.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49676</idno>
+            <idno type="STC">Wing L544A</idno>
+            <idno type="STC">ESTC R41456</idno>
+            <idno type="EEBO-CITATION">31355382</idno>
+            <idno type="OCLC">ocm 31355382</idno>
+            <idno type="VID">110433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110433)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Late dreadful and most admired calamity of a parcel of land and many great oaks, and other trees sunk many yards under ground into so deep a water that the tops of the highest oaks are not to be seen, together with a great quantity of land and other trees that are daily falling ... neer unto the parish of Bulkley, about nine miles from Chester, it being part of the land of the Lord Cholmley : this strange accident hapned on the 8 day of Iuly 1657.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere and William Gilbertson ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Natural disasters --  England --  Cheshire --  History --  17th century.</term>
+               <term>Disasters --  Religous aspects --  Early works to 1800.</term>
+               <term>Cheshire (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110433:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 99 -->
+            <p>THE Late dreadful and moſt ad<g ref="char:EOLhyphen"/>mired Calamity of a Parcel of Land, and many great Oaks, and other Trees ſunk many yards under ground, into ſo deep a Water that the tops of the higheſt Oaks are not to be ſeen.</p>
+            <p>Together: With a great quantity of Land, and other Trees that are daily falling, and the thundering noiſe, that is made at the time of their moſt terrible fall, ne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r unto the Pariſh of <hi>Bulkley,</hi> about nine miles from <hi>Cheſter:</hi> it being part of the Land of the Lord <hi>Cholmley.</hi>
+            </p>
+            <p>This ſtrange accident hapned on the 8 day of <hi>Iuly</hi> 1657.</p>
+            <p>LONDON, Printed for <hi>Tho. Vere,</hi> and <hi>William Gilbertſon,</hi> without Newgate and in Giltſpurr ſtreet, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110433:2"/>
+            <!-- PDF PAGE 100 -->
+            <pb n="3" facs="tcp:110433:2"/>
+            <!-- PDF PAGE 100 -->
+            <head>The late dreadful and moſt admired calamity of a Parcel of Land, and many great Oaks and other Trees, ſunk many yards under ground into ſo deep a Water that the tops of the higheſt Oaks are not to be ſeen.</head>
+            <p>GOd doth continue to manifeſt unto us ſome viſible tokens, or o<g ref="char:EOLhyphen"/>thers of his diſpleaſure, and yet we do continue and encreaſe our ſins. It is obſervable what <hi>Doctor Crofts</hi> ſpeaking of the Kings Army, did preach before the King himſelf ſome few dayes after the great overthrow at <hi>Nazbey;</hi> They do increaſe, ſaid he, their ſins, as God doth increaſe his judg<g ref="char:EOLhyphen"/>ments, and what is a true ſign of their de<g ref="char:EOLhyphen"/>ſperate and moſt deplorable condition, they are not ſenſible of his judgement; We ſhould all have the Spirit of application: Sometimes God ſpeaks to us by fire, ſometimes by wa<g ref="char:EOLhyphen"/>ter, two implacable Elements, and as mer<g ref="char:EOLhyphen"/>cileſs unto themſelves, as unto others: It is not long ſince we had a deſolation by pow<g ref="char:EOLhyphen"/>der,
+<pb n="4" facs="tcp:110433:3"/>
+               <!-- PDF PAGE 101 -->the fire was heard then to thunder, as now the water; God maketh uſe of any Creature to rebuke us, and yet we have not a heart to relent, though fire and water, and Trees and Stones do preach unto us. The other day when the powder took fire at the Hermitage, the Houſes were blown up into the air; Now at this viſitation in <hi>Cheſhire,</hi> the Earth opens, and receives the Earth; and Trees, which for their height, were wont to be the firſt witneſſes of the riſing Sun, did ſink down with it into a lowe darkneſs. The Hiſtories of our Nation (ſince we have been viſible in earneſt, and by commerce with other Nations have been refined from fable and neglect) can hardly afford us any preſident in the like nature; It was a judge<g ref="char:EOLhyphen"/>ment that did attend the Iſraelits, they had for their murmuring in the wildernes, been bitten with fiery Serpents, the ſins of their Tongues, being puniſhed with the teeth of the Serpents, their murmuring Tongues be<g ref="char:EOLhyphen"/>ing like fiery Serpents, by which their ſins were both chaſtiſed and expounded; but the Princes among them taking no warning but proceeding in their diſobedience and im<g ref="char:EOLhyphen"/>piety, the Earth opened and devoured them a fearful judgement for a wilfull ſin: <hi>Corah
+<pb n="5" facs="tcp:110433:3"/>
+                  <!-- PDF PAGE 101 -->Dathan,</hi> and <hi>Abiram,</hi> were of the firſt rank amongſt the Iſraelits, as the Oaks amongſt the Trees of the forreſt, but <hi>Corah, Dathan,</hi> and <hi>Abiram</hi> were all ſwallowed up, there was no more to be ſeen of them then there was of the Oaks in this late Calamity, or ra<g ref="char:EOLhyphen"/>ther this gentle warning of the Almighty to humble our ſelves before him, leaſt the Earth open and devour us, and there be none to relieve us. A heathen Poet inveighing a<g ref="char:EOLhyphen"/>gainſt the wickednes of his times; Thinkſt thou, ſaith he, That God is aſleep or blind:</p>
+            <q>
+               <l>Cauſe he forbeares, and ſooner ſtrikes a Tree</l>
+               <l>With horried thunder, then thy Houſe and Thee.</l>
+            </q>
+            <p>Shall we think becauſe the ſicknes is at <hi>Rome</hi> it will be well enough with us, becauſe the Oaks and the Trees of the forreſt fall, there<g ref="char:EOLhyphen"/>fore we ſhall ſtand; We ſhall find in Hi<g ref="char:EOLhyphen"/>ſtory that the like ſinking of the Earth, hath not only made families, but Cities and King<g ref="char:EOLhyphen"/>doms deſolate, and thouſands who have been alive in the morning, have been ſwal<g ref="char:EOLhyphen"/>lowed up in the twinkling of an eye, with a ſwift deſtruction.</p>
+            <q>
+               <l>Sad monument to all this way ſail-by,</l>
+               <l>Here King and Kingdom in our grave do ly.</l>
+            </q>
+            <p>
+               <pb n="6" facs="tcp:110433:4"/>
+               <!-- PDF PAGE 102 -->
+The Mountain of <hi>Veſuvius,</hi> and the Moun<g ref="char:EOLhyphen"/>tain of <hi>Aetna</hi> in <hi>Sicily,</hi> are perpetually caſting forth ſmoak, and flames of fire to the amaze<g ref="char:EOLhyphen"/>ment of all that ſail that way, and there have been ſuch ſtrange motions of the Earth, that lands and houſes were in a moment car<g ref="char:EOLhyphen"/>ried away, and the ſame ground with the Cattel and woods thereon have been found to ſtand twenty mile off, and other ground to be juſtled into place of that which within an hour before was there; In ſuch a wonder<g ref="char:EOLhyphen"/>ful motion we do read that Hills have been made Valleys, and Valleys Hills, and the ſuddeneſs of the change hath been as won<g ref="char:EOLhyphen"/>derful as the change it ſelf. This indeed doth appear ſtrange at the firſt, like ſome violent convulſion in nature, but the poſſibility of it will appear, by a Counterfeit of it, which was performed by the right honorable the Mar<g ref="char:EOLhyphen"/>quis of <hi>New-Caſtle,</hi> when about four and twenty year ſince he entertained the late King when he was going unto <hi>Scotland.</hi> The King drawing neer unto his Houſe per<g ref="char:EOLhyphen"/>ceived a great wood before it through which he paſſed, the wood dividing it ſelf into a plain, and open way for him. The magnifi<g ref="char:EOLhyphen"/>cent dinner being ended, and the King ta<g ref="char:EOLhyphen"/>king Horſe again, he enquired what was be<g ref="char:EOLhyphen"/>come
+<pb n="7" facs="tcp:110433:4"/>
+               <!-- PDF PAGE 102 -->of the wood which with ſuch a grave and ſo ſilent ſolemnity entertained him that morning as he came unto the Houſe, the Marquis told him that it was retreated be<g ref="char:EOLhyphen"/>hind the Houſe to give way on purpoſe to more lively and comfortable entertain<g ref="char:EOLhyphen"/>ments.</p>
+            <p>This moving wood was looked upon by all the Court with equal wonder and de<g ref="char:EOLhyphen"/>light, but this was but an extravagance of expence and love. This ſinking of the Earth with ſuch great Trees in <hi>Cheſhire,</hi> deſerves our moſt ſerious conſideration, and the leſſe that there is in it of art there is the more of ruin.</p>
+            <p>
+               <hi>Alexander the Great,</hi> when he travailed into <hi>Judia</hi> to add that Nation to his other conqueſts will tell you of the Tree of the Sun, with he both ſaw and worſhipped, this Tree he was not permitted to draw neer unto, without aſſuring the Prieſt in the firſt place that he had not touched a Woman for ſo many dayes; If you will believe the autho<g ref="char:EOLhyphen"/>rity of moſt grave Hiſtorians and of <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> himſelf this Tree of the Sun could ſpeak both in the Greek and the Indian tongue, and deliver oracles before hand, of events to come, but not without ſome ceremonies to
+<pb n="8" facs="tcp:110433:5"/>
+               <!-- PDF PAGE 103 -->be obſerved, as to pull off the rings from the fingers, of the worſhippers, &amp; the ſhoes from their feet in reverence to the place before they make their approaches too neer unto it, to lift up their eyes, and ſilently to pro<g ref="char:EOLhyphen"/>pound to themſelves whatſoever they deſire the oracle ſhould ſatisfy them in; this being done, the Tree in ſoft accents like all moſt un<g ref="char:EOLhyphen"/>to a whiſper would tell them what they ſhould truſt unto, ſo it told <hi>Alexander</hi> that it was denied him by heaven to return with triumphs into <hi>Macydon.</hi> It was told him that his dayes and his victories were num<g ref="char:EOLhyphen"/>bred, and that now an end muſt be put to his ambition and his cruelty, &amp; that on the fol<g ref="char:EOLhyphen"/>lowing year in the moneth of May he ſhould dye at <hi>Babylon,</hi> by the treachery of his own friends, whom he leaſt ſuſpected. I do not the leaſt way ſuggeſt unto you, that theſe Trees which ſunk down into the Earth in <hi>Chesſhire</hi> had the reputation of Prophets, or that they do preſage the death of any <hi>Alex<g ref="char:EOLhyphen"/>ander:</hi> But certainly they may ſeem to be an advertiſement to us to take heed how we ſtand; there are ſome who will take no ad<g ref="char:EOLhyphen"/>mition but think themſelves ſecure although there be ſo many viſible demonſtrations of the anger of the Almighty, although the
+<pb n="9" facs="tcp:110433:5"/>
+               <!-- PDF PAGE 103 -->thunder doth chide never ſo lowdly; others there are who do flatter themſelves in their own righteouſnes, they believe that ſuch dreadful threatnings do not belong to them, they are better then others, and therefore they do conceive it ſhall go better with them then with others, but this vain confidence is but the arme of fleſh, to truſt to our own goodneſs is a moſt evident ſign that we are ready to fall by our own weaknes, and leſſe commiſeration attends ſuch a fall, for what neighbour wil lament or pitty the fall of ſuch a man who makes it all his buſineſs to boaſt that he is higher then his fellows.</p>
+            <p>Others again, there are who are ready to quarrel with inſtruction, and are prone to ſay what tell you me of the fall of ſuch oaks, and of the thunder which they made when they fell into the deeper pit; I am but a muſhrom; the thunder ſtricks the Cedars of Libanon, and the Somnets of the higheſt rocks. I am as low as can be already, and he who lyes on the earth cannot fall lower; What n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed I fear who have neither a head in the clowds, nor an arme in the air, and hardly a foot on the Earth; Thus argues the ſtubborn muſhrome for himſelf, not at al con<g ref="char:EOLhyphen"/>ſidering, that but a limb of an oak in its fall
+<pb n="10" facs="tcp:110433:6"/>
+               <!-- PDF PAGE 104 -->will cruſh a grove of muſhromes into no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>There be ſome again who do take delight to hear of the fall of the great Oaks, and of the crack which they made in their wide and boyſterous ruins, but thoſe of all are the moſt inhumane and the moſt unchriſtian; for to raiſe a wicked joy out of the ruines and the loſſes of another, is to invite if not to pluck the ſame calamities upon himſelf. He that delights in miſchief ſhall have miſchief to follow him at his heels. A better and a more noble conſideration would become him: Is the oak fallen! the oak as honourable for its durance as its ſtrength! well may the other Trees in the forreſt tremble, well may they ſuſpect the greatnes of their own bulks too dangerous unto them: The Aſh may no more boaſt of her height nor of the number of her keyes: The Elme may praiſe no more her ho<g ref="char:EOLhyphen"/>ſpitable ſhades, and her conſtant relations to the Houſes of Greatnes: The Pine on the top of the Hill may look down on her feet, and acknowledge ſhe owes her ſafety to the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>news of her roots, and not to the ſtrength of her Arms, they may all learn ſuch leſſons of humility that with a prepared expectati<g ref="char:EOLhyphen"/>on they may either receive or divert the ru<g ref="char:EOLhyphen"/>deſt
+<pb n="11" facs="tcp:110433:6"/>
+               <!-- PDF PAGE 104 -->buffers of the winds &amp; the ſhocks of all Tempeſts whatſoever.</p>
+            <p>Before we ſhall poceed to give you a par<g ref="char:EOLhyphen"/>ticular account of this parcel of Land which ſunk under ground in <hi>Cheſhire</hi> we ſhal in the firſt place repreſent unto you, that although God be prayſed this be very rare in our own Iland, yet other Nations have been often<g ref="char:EOLhyphen"/>times viſited with the like diſaſter, and that in a far more terrible, and a devouring way then what in <hi>Cheſhire</hi> happened; It is not yet a year ſince we heard of the dreadful and diſmal ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nking of the ground at <hi>L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rma</hi> in the Dominions of the King of <hi>Spain,</hi> where mil<g ref="char:EOLhyphen"/>lions of ſilver being with immenſe care and induſtry digged out of the bowels of the Earth, and laid upon the ground to be be<g ref="char:EOLhyphen"/>held and deſired by al it pleaſed God to ſend ſo ſuddain and ſo violent a motion<g ref="char:punc">▪</g> and ſha<g ref="char:EOLhyphen"/>king of the Earth that this vaſt treaſure ſunk down again from whence it was digged out, and in one minute the lives of about four thouſand men who had been digging in the Mines, and their three years labour was at once deſtroyed. Theſe mines you ought to conſider were of a very large capacity, and took up the ſpace of many acres, and many miles; How dreadful then was the noiſe
+<pb n="12" facs="tcp:110433:7"/>
+               <!-- PDF PAGE 105 -->which they made in their fall eſpecially, ſee<g ref="char:EOLhyphen"/>ing at the ſame time, it pleaſed God to ſend a great deal of thunder upon the ſame place. Surely if every parcel of ground falling in <hi>Cheſhire</hi> did make a noiſe like to the report of a Canon, great needs muſt be the aff<g ref="char:EOLhyphen"/>right, and the ratling here, between the chi<g ref="char:EOLhyphen"/>ding clowds, the tumbling mines, and the ringing ſilver. We do read in Hiſtories of many great and dreadful caves and Hollows occaſioned by the falling of the Earth, and moſt of them of a depth not to be faddomed, into which ſome have willingly ſacrificed their lives for their Countries good and ſafety, and ſome again being condemned by the Law, have been violenly thrown in<g ref="char:EOLhyphen"/>to others, as the places of the greateſt tor<g ref="char:EOLhyphen"/>ment; nay ſome of theſe caves have been ſo dark, ſo deep, and the breath ariſing from thence ſo extreamly noyſome, and contagi<g ref="char:EOLhyphen"/>ous that they have been taken for the diſcent into Hell it ſelf; <hi>England,</hi> as I have ſaid, is free of thoſe diſmal wonders, only in this County of <hi>Cheſter</hi> there is a kind of a ſolemn miracle which cuſtomarily ſhowes it ſelf, at the death of every one, whither male or fe<g ref="char:EOLhyphen"/>male, of ſuch an honorable Family, for on the deceaſe of any of them<g ref="char:punc">▪</g> there wil ariſe out of
+<pb n="13" facs="tcp:110433:7"/>
+               <!-- PDF PAGE 105 -->a pool adjacent to the houſe, the bodies of great Trees which for a certain time wil float upon the water, and of their own accord will ſink down again into the bottom.</p>
+            <p>The miracle is moſt true, and it is recor<g ref="char:EOLhyphen"/>ded as well by grave Divines, as by great Hi<g ref="char:EOLhyphen"/>ſtorians, and it ſomething reſembles that which is the intended ſubject of all this diſ<g ref="char:EOLhyphen"/>courſe, but that the Trees in the one did riſe out of the water, &amp; the trees in this wonder, which I am now about to declare unto you, did fall into the water, roots, branches &amp; all.</p>
+            <p>On Wedneſday, <hi>Iuly</hi> the eight, about three of the clock in the afternoon, there happened a very rare and memorable thing at <hi>Bulkley,</hi> ſome nine miles off from <hi>Cheſter,</hi> a percel of Land belonging to the Lord <hi>Cholmley</hi> did ſink into the Earth; It was a little Riſe of Land higher then the reſt, there were goodly Oaks on it, which were ten yards high in the body (ſo the letters do expreſſely mention) before you come unto the branch, theſe with ſome other Trees did ſinke downe with the earth into a water prepared to receive them under-neath; the fall they made was hi<g ref="char:EOLhyphen"/>deous repreſenting thunder, or the roaring of a well laden Canon; It is certified, that although thoſe Trees were of a great
+<pb n="14" facs="tcp:110433:8"/>
+               <!-- PDF PAGE 106 -->height, yet the Waters they fell into are ſo extreamly deep, that there is not ſo much as a branch, or a top, ſprigge of any of them to be ſeen; In the mean time this Earth that ſunk down into the deep did, by its ponder<g ref="char:EOLhyphen"/>ous fall, gain ſuch an advantage on the Earth round about it, that it is all crackt and full of flawes, and when any piece of it doth follow the temptation of the other that is already ſunk, and is tumbling down after it, there is heard a noiſe like to the report of a Canon at ſome great ſolemnity; There come multitudes of people of all ſorts, although in time of Harveſt, to be ſpectatours of it; At the firſt they were affraid to come neer it, but one taking encouragement from another, ſome at laſt were perſwaded to go to the brink and month of the Hollow, and one or two were let down with ropes to ſee what they could diſcover, they were neither of them let down far, but they importunately called to be plucked up again, they diſcove<g ref="char:EOLhyphen"/>red, as they ſaid, a great floud of Water, and they heard a noiſe agreeable thereunto, but not any thing of the trees, either root, branch or top is to be ſeen; this argues the waters to be of an extream depth, and ſo the hol<g ref="char:EOLhyphen"/>low diſcent unto it is conceived to be, which
+<pb n="15" facs="tcp:110433:8"/>
+               <!-- PDF PAGE 106 -->by the reverberation or the air is the occaſion of the hideous noiſe that is made, when any ponderous ſubſtance is falling down into it; Great pieces of Earth and Trees of a great proportion do daily fall, and the ruins every day are more threatning then before.</p>
+            <p>In this judgement the mercy of God is re<g ref="char:EOLhyphen"/>markeable, for he might as well have made us as the Banks of Trees, the Examples of his Indignation and diſpleaſure, to him there<g ref="char:EOLhyphen"/>fore be all power, and praiſe, and glory now, and for evermore, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
